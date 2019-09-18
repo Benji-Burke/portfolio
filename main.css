@@ -67,6 +67,10 @@ img {
     text-align: center;
 }
 
-p{
+p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.right {
+    text-align: center;
 }
