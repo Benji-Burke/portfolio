@@ -74,3 +74,24 @@ p {
 #right {
     text-align: center;
 }
+
+#contact_links_container {
+    /* margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    padding: 200px 0; */
+    height: 500px;
+    position: relative;
+    /* border: 3px solid green;  */
+}
+
+#links {
+    /* width: 100%;
+    height: 500px;
+    display: inline-block; */
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
